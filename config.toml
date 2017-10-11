@@ -2,7 +2,6 @@ baseURL = "http://unwrappedsoftware.com/"
 languageCode = "pl-PL"
 title = "such wow"
 theme = "ananke"
-publishDir = "docs"
 
 [[menu.main]]
     name = "Home"
